@@ -47,12 +47,3 @@ void print_python_list(PyObject *p)
                         print_python_bytes(list->ob_item[i]);
         }
 }
-
-
-
-
-git add .
-
-git commit -m '0x04python-more_data_structures'
-
-git push
